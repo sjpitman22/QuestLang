@@ -192,4 +192,4 @@ QuestLang - A DnD inspired programming language <br />
 <br />
 <br />
 ## Download Here
-[Try it out!]((https://github.com/sjpitman22/QuestLang/blob/main/Quest%20Lang.py))
+[new link](https://github.com/sjpitman22/QuestLang/blob/main/Quest%20Lang.py)
